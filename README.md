@@ -35,6 +35,8 @@ The following insights were analyzed
 4. Clean water and sanitation world view representation
 5. Top 10 Countries with reported death of Cholera
 
+Interact with my Dashboard and Report: https://drive.google.com/file/d/1jxi9za_Ou9fVwm6PxbQkOQ1KOLPNvqvz/view?usp=share_link
+
 # Conclusion
 1. As at 2020, the southern asia and sub-saharan africa has the highest coverage as regards problems in clean water and sanitaion
 2. Demogarphic Republic of Congo with the highest report of death on Cholera and Nigeria being the second
