@@ -37,6 +37,6 @@ The following insights were analyzed
 
 # Conclusion
 1. As at 2020, the southern asia and sub-saharan africa has the highest coverage as regards problems in clean water and sanitaion
-2.  Eemogarphic Republic of Congo with teh highest report of death on Cholera and Nigeria being the second
+2. Demogarphic Republic of Congo with the highest report of death on Cholera and Nigeria being the second
 
 
